@@ -22,4 +22,6 @@ elif terminacion == 'ir' :
     print ("El" + " "+ verbosinterminacion + "e")
     print ("Nosotros" + " "+ verbosinterminacion + "imos")
     print ("Ellos" + " "+ verbosinterminacion + "en")
+
+#CAMBIO EN EL REPOSITORIO
     
